@@ -33,7 +33,7 @@ public static function getLast(){
     FROM articles 
     LEFT JOIN categories 
     ON articles.categorie_id = categories.id 
-    ORDER BY articles.date DESC ");
+    ORDER BY articles.date_article DESC ");
     ;
 }
 
@@ -50,7 +50,7 @@ public static function lastByCategorie($categorie_id)
     LEFT JOIN categories 
     ON articles.categorie_id = categories.id 
     WHERE categorie_id = ? 
-    ORDER BY articles.date DESC
+    ORDER BY articles.date_article DESC
     ", [$categorie_id]);
 }
 
