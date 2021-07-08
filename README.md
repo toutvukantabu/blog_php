@@ -6,6 +6,6 @@ To start the project :
 
 Open : cd /blog_php
 
-use the command : "php -S localhost:8000" to start th server  
+use the command : "php -S localhost:8000" to start server  
 
 and open adress http://localhost:8000/index.php
