@@ -6,7 +6,7 @@ Use of the "Singleton" design pattern
 
 ### To start the project : 
 
-Open : _cd  ~/blog_php_
+Open : _cd:  ~/blog_php_
 
 use the command : 
 
