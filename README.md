@@ -1,6 +1,6 @@
 # blog_php
 
-blog php from scratch with the _'Grafikart tutorial_
+blog php from scratch 
 
 Use of the "Singleton" design pattern 
 
