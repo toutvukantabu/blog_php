@@ -1,11 +1,19 @@
 # blog_php
-blog php from scratch with the 'Grafikart tutorial
+
+blog php from scratch with the _'Grafikart tutorial_
+
 Use of the "Singleton" design pattern 
 
-To start the project : 
+### To start the project : 
 
-Open : cd  ~/blog_php
+Open : _cd  ~/blog_php_
 
-use the command : "php -S localhost:8000" to start server  
+use the command : 
 
-and open adress http://localhost:8000/index.php
+```bash
+php -S localhost:8000" to start server
+```
+
+and open adress
+
+http://localhost:8000/index.php
